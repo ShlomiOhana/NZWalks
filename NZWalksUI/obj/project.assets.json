@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\shlomio\\.nuget\\packages\\": {}
+    "C:\\Users\\shlomi.ohana\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shlomio\\Desktop\\Shlomi Personal\\Repo\\NZWalks\\NZWalksUI\\NZWalks.UI.csproj",
+      "projectUniqueName": "C:\\Users\\shlomi.ohana\\Desktop\\Shlomi Personal\\Repo\\NZWalks\\NZWalksUI\\NZWalks.UI.csproj",
       "projectName": "NZWalks.UI",
-      "projectPath": "C:\\Users\\shlomio\\Desktop\\Shlomi Personal\\Repo\\NZWalks\\NZWalksUI\\NZWalks.UI.csproj",
-      "packagesPath": "C:\\Users\\shlomio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shlomio\\Desktop\\Shlomi Personal\\Repo\\NZWalks\\NZWalksUI\\obj\\",
+      "projectPath": "C:\\Users\\shlomi.ohana\\Desktop\\Shlomi Personal\\Repo\\NZWalks\\NZWalksUI\\NZWalks.UI.csproj",
+      "packagesPath": "C:\\Users\\shlomi.ohana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shlomi.ohana\\Desktop\\Shlomi Personal\\Repo\\NZWalks\\NZWalksUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\shlomio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shlomi.ohana\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
