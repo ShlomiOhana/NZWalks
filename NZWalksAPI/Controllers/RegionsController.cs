@@ -27,7 +27,7 @@ namespace NZWalks.API.Controllers
             var regionsDomain = await _regionRepository.GetAllAsync();
 
             // Create an exception
-            //throw new Exception("This is a new exception");
+            throw new Exception("This is a new exception");
 
             return Ok(_mapper.Map<List<RegionDTO>>(regionsDomain));
         }
